@@ -1,5 +1,5 @@
 # AGRIDUNIYA
-# Django Simple E-Commerce Website with Payment
+# Django E-Commerce Website
 This is a simple e-commerce website built with Django (Python) 
 
 
@@ -80,6 +80,11 @@ $  python manage.py createsuperuser
 ```
 
 
+Command for PC:
+```
+https://user-images.githubusercontent.com/106511307/181691511-0dbe71bb-64d3-4ebf-817c-dd826587f951.mp4
+
+```
 
 
 
